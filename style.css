@@ -1,0 +1,46 @@
+@media (prefers-reduced-motion: no reference){
+  *{
+    scroll-behavior: smooth;
+  }
+}
+#navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 100vh;
+  background-color: #4536;
+  padding: 20px;
+}
+body{
+  margin-left: 280px;
+  padding: 20px;
+  font-family: Avenir;
+  text-align: left;
+}
+
+header{
+  font-weight: bold;
+  font-size: 24px;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.nav-link:hover{
+  cursor: pointer;
+  background-color: #4536;
+  color: rgb(240,240,240);
+}
+.nav-link{
+  margin-bottom: 20px;
+  
+}
+section{
+  padding: 20px;
+}
+h1{
+  width: 110%;
+}
