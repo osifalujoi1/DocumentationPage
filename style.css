@@ -7,13 +7,13 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 20vw;
+  width: 25vw;
   height: 100vh;
   background-color: #4536;
-  padding: 10px;
+  padding: 20px;
 }
 body{
-  margin-left: 280px;
+  margin-left: 30px;
   padding: 20px;
   font-family: Avenir;
   text-align: left;
@@ -41,6 +41,4 @@ a{
 section{
   padding: 10px;
 }
-h1{
-  width: 110%;
-}
+
