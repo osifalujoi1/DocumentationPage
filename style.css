@@ -13,15 +13,17 @@
   padding: 20px;
 }
 body{
-  margin-left: 150px;
+  margin-left: 35%;
   padding: 20px;
   font-family: Avenir;
   text-align: left;
 }
-
+h1{
+    font-size: 20px;
+}
 header{
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 a{
@@ -38,7 +40,3 @@ a{
   margin-bottom: 20px;
   
 }
-section{
-  padding: 10px;
-}
-
